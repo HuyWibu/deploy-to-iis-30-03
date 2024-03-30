@@ -15,15 +15,15 @@ jobs:
         dotnet-version: '6.0.x'
         
     - name: Build with dotnet
-      shell: pwsh
-      run: dotnet build
+      shell: cmd
+      run: dotnet build --configuration Release
       
     - name: dotnet publish
-      shell: pwsh
+      shell: cmd
       run: |
         dotnet publish -c Release -o .\myapp
     - name: Deploy to IIS
-      shell: pwsh
+      shell: cmd
       run: |
         iisreset /stop
         xcopy /s /y .\myapp\* c:\www\gh-actions-iis-demo.com
