@@ -21,7 +21,7 @@ jobs:
     - name: dotnet publish
       shell: cmd
       run: |
-        dotnet publish -c Release -o .\myapp
+        dotnet publish -c Release -o .\demo-gh-deploy
     - name: Deploy to IIS
       shell: cmd
       run: |
