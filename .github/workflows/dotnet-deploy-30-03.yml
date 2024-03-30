@@ -16,7 +16,7 @@ jobs:
         
     - name: Build with dotnet
       shell: pwsh
-      run: dotnet build --configuration Release
+      run: dotnet build
       
     - name: dotnet publish
       shell: pwsh
