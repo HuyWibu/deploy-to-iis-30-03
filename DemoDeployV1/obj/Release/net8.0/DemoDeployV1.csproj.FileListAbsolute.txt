@@ -28,3 +28,4 @@ E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\ref
 E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\DemoDeployV1.pdb
 E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\DemoDeployV1.genruntimeconfig.cache
 E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\ref\DemoDeployV1.dll
+E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\DemoDeployV1.sourcelink.json
