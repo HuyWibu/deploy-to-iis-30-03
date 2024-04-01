@@ -1,7 +1,0 @@
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\DemoDeployV1.exe
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\appsettings.json
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\DemoDeployV1.dll
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\DemoDeployV1.deps.json
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\DemoDeployV1.runtimeconfig.json
-E:\O_D\InternJava\DeployToIISV1\DemoDeployV1\DemoDeployV1\obj\Release\net8.0\PubTmp\Out\DemoDeployV1.pdb
