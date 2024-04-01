@@ -26,5 +26,5 @@ jobs:
       shell: cmd
       run: |
         iisreset /stop
-        xcopy /s /y .\myapp\* c:\www\gh-actions-iis-demo.com
+        xcopy /s /y .\myapp\* E:\git-deploy-to-iis.com
         iisreset /start
